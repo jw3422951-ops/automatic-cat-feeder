@@ -37,8 +37,10 @@ The investigation examined storage conditions relevant to the feeder's food comp
 ### Observations reported in the tables
 
 - Silica gel treatments had lower LoD than their respective controls on Day 14. On Day 21, the lower LoD persisted in the foil treatments; the plastic treatments did not show a statistically significant difference from the plastic control.
-- The later TLC measurements did not show a consistent increase in signal with increasing silica gel amount. The 1 g and 2 g foil treatments had higher signals than the foil control, while the 4 g treatment did not reach statistical significance.
+- The Day 21 TLC measurements did not show a consistent increase in signal with increasing silica gel amount. The 1 g and 2 g foil treatments had higher signals than the foil control, while the 4 g treatment did not reach statistical significance.
 - The matched foil-versus-plastic TLC comparisons did not reach statistical significance at any tested silica gel amount.
+
+*Timing clarification: The project author confirmed that the final TLC measurements were taken on Day 21. References to Day 20 for those measurements in the archived report refer to the same Day 21 test.*
 
 **Interpretation limits:** LoD can include volatile substances other than water. The TLC signal does not directly quantify vitamin E or total fat. Because of calibration limitations, pH was interpreted through within-day comparisons. The original report contains the methods, tables, statistical comparisons, and discussion; no independent reanalysis is presented here.
 
